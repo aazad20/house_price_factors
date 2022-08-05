@@ -46,4 +46,9 @@ This factor will influence the cost to build new houses thus affecting the suppl
 3. Population
 This factor directly affects the demand of houses. As the population increases people will need more space to live hence increasing the demand.
 
+### References
+1. https://www.kaggle.com/datasets/ankitsharma0467/factors-influence-the-home-prices-across-us
+2. https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+3. https://housing.com/news/top-5-factors-make-property-prices-appreciate/
+4. https://pvsbuilders.com/economic-factors-affecting-housing-market/
 
