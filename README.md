@@ -7,7 +7,7 @@
   ## Here is the MECE representation <br>
   
   
-  ![Factors](Factors.png)
+  ![Factors](image/Factors.png)
   
   
   <br>
